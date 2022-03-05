@@ -8,3 +8,4 @@ C:\Users\andri\Praktikum_KPL\modul2_1302204035\modul2_1302204035\obj\Debug\modul
 C:\Users\andri\Praktikum_KPL\modul2_1302204035\modul2_1302204035\obj\Debug\modul2_1302204035.csproj.CoreCompileInputs.cache
 C:\Users\andri\Praktikum_KPL\modul2_1302204035\modul2_1302204035\obj\Debug\modul2_1302204035.exe
 C:\Users\andri\Praktikum_KPL\modul2_1302204035\modul2_1302204035\obj\Debug\modul2_1302204035.pdb
+C:\Users\andri\Praktikum_KPL\modul2_1302204035\modul2_1302204035\obj\Debug\modul2_1302204035.Form1.resources
