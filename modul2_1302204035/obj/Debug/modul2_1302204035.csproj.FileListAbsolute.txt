@@ -1,0 +1,10 @@
+C:\Users\andri\Praktikum_KPL\modul2_1302204035\modul2_1302204035\bin\Debug\modul2_1302204035.exe.config
+C:\Users\andri\Praktikum_KPL\modul2_1302204035\modul2_1302204035\bin\Debug\modul2_1302204035.exe
+C:\Users\andri\Praktikum_KPL\modul2_1302204035\modul2_1302204035\bin\Debug\modul2_1302204035.pdb
+C:\Users\andri\Praktikum_KPL\modul2_1302204035\modul2_1302204035\obj\Debug\modul2_1302204035.csproj.AssemblyReference.cache
+C:\Users\andri\Praktikum_KPL\modul2_1302204035\modul2_1302204035\obj\Debug\modul2_1302204035.csproj.SuggestedBindingRedirects.cache
+C:\Users\andri\Praktikum_KPL\modul2_1302204035\modul2_1302204035\obj\Debug\modul2_1302204035.Properties.Resources.resources
+C:\Users\andri\Praktikum_KPL\modul2_1302204035\modul2_1302204035\obj\Debug\modul2_1302204035.csproj.GenerateResource.cache
+C:\Users\andri\Praktikum_KPL\modul2_1302204035\modul2_1302204035\obj\Debug\modul2_1302204035.csproj.CoreCompileInputs.cache
+C:\Users\andri\Praktikum_KPL\modul2_1302204035\modul2_1302204035\obj\Debug\modul2_1302204035.exe
+C:\Users\andri\Praktikum_KPL\modul2_1302204035\modul2_1302204035\obj\Debug\modul2_1302204035.pdb
